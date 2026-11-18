@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # Triagegeist — Aide à la décision de triage aux urgences par prédiction de l’acuité
 
 ---
